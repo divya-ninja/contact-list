@@ -1,6 +1,6 @@
-#Contact List App
+# Contact List App
 ## Made a contact list using ReactJS which shows the contacts from an API.
-###Link to the web app  https://divya-ninja.github.io/contact-list/
+### Link to the web app  https://divya-ninja.github.io/contact-list/
 
 
 
